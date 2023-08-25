@@ -1,2 +1,2 @@
 # postgres-wal-sizer
-To manage postgres wal files with a basic bash script
+It designed to manage postgres wal files with a simple interactive bash script
